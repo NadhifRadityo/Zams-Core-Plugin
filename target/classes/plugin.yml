@@ -1,0 +1,13 @@
+name: ZamsPlugin
+main: io.github.NadhifRadityo.ZamsNetwork.Main.Main
+version: 1.0
+commands:
+    kits:
+        usage: /kits
+        description: For FREE!
+    call:
+        usage: /call
+        description: for debugger
+    resetconfig:
+        usage: /resetconfig
+        description: reset all config

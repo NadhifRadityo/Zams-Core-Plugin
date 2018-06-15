@@ -1,0 +1,7 @@
+name: ZamsPlugin
+main: io.github.NadhifRadityo.ZamsNetwork.Main.Main
+version: 1.0
+commands:
+    kits:
+        usage: /kits
+        description: For FREE!
