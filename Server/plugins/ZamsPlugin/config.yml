@@ -1,0 +1,133 @@
+#KitsMessages.getString("SuccessCreateKits"))
+#Utils.replace(KitsMessages.getString("CanNotCreateKits"), "<Error>", ExceptionUtils.getStackTrace(e))
+
+Config:
+  Kits:
+    enabled: true
+    Config:
+      path: config/kits/config/config.yml
+      default:
+        storeKits: "config/kits/"
+        GuiTitle: "Kits"
+        defaultItemName: "&8-&7=&8-&7=&8-&7=&8-&7=&8-&7=&8-&r&l&f    <Kit Name>    &8-&7=&8-&7=&8-&7=&8-&7=&8-&7=&8-&r"
+        getKits: "Left"
+        seeKitsContents: "Right"
+        loreTag:
+          kitsLeftClick: "&6Left Click &7to get kit!"
+          kitsRightClick: "&6Right Click &7to see contents!"
+          kitsName: "&l&8Name&r&7: <Name>"
+          kitsPermission: "&l&8Permission&r&7: <Permission>"
+    Messages:
+      path: config/kits/config/messages.yml
+      default:
+        prefix: "&8[&7Kits&8]&r &f"
+        IllegalKitsName: "Nama kits tidak diperbolehkan!"
+        KitsNameNotIncluded: "Masukkan nama kits!"
+        KitsNotFound: "Kits tidak ada!"
+        UnknownCommand: "Perintah tidak diketahui!"
+        DoNotHavePermission: "Kamu tidak mempunya ijin!"
+        SuccessCreateKits: "Kits berhasil dibuat!"
+        SuccessChangeKits: "Kits berhasil diganti!"
+        SuccessDeleteKits: "Kits berhasil dihapus!"
+        SuccessConfigKits: "Kits berhasil diconfig!"
+        SuccessGiveKits: "Kits berhasil diberikan!"
+        CanNotCreateKits: "Kits gagal dibuat! \n <Error>"
+        CanNotDeleteKits: "Kits gagal dihapus! \n <Error>"
+        CanNotOpenKits: "Tidak dapat membuka kits! \n <Error>"
+        CanNotConfigKits: "Kits gagal diconfig! \n <Error>"
+        CanNotGiveKits: "Kits gagal diberikan! \n <Error>"
+  Swimming:
+    Config:
+      path: config/realistic/swimming/config.yml
+      default:
+        enableSwimmingUp: true
+        disableSwimInWaterfall: true
+        maxWaterfallDiameter: 3
+        durabilityLoss: true
+        enableBoost: true
+        ehmCompatibility: false
+        sprintSpeed: 0.3
+        minWaterDepth: 2
+        staminaSystem: true
+  Fly:
+    Config:
+      path: config/essentials/fly.yml
+      default:
+        prefix: "&8[&7Fly&8]&r &f"
+        playerNotFound: "Player tidak ada!"
+        doNotHasPermission: "Kamu tidak mempunyai ijin!"
+        setToNotFlying: "Membuat &a<Name> &ftidak terbang!"
+        setToFlying: "Membuat &a<Name> &fterbang!"
+  Glow:
+    Config:
+      path: config/essentials/glow.yml
+      default:
+        prefix: "&8[&7Glowing&8]&r &f"
+        playerNotFound: "Player tidak ada!"
+        doNotHasPermission: "Kamu tidak mempunyai ijin!"
+        setToNotGlowing: "Membuat &a<Name> &ftidak glowing!"
+        setToGlowing: "Membuat &a<Name> &fglowing!"
+  Heal:
+    Config:
+      path: config/essentials/heal.yml
+      default:
+        prefix: "&8[&7Heal&8]&r &f"
+        playerNotFound: "Player tidak ada!"
+        doNotHasPermission: "Kamu tidak mempunyai ijin!"
+        successHeal: "Membuat &a<Name> &ffull health!"
+  BlockExplosion:
+    enabled: true
+    Config:
+      path: config/realistic/BlockExplosion.yml
+      default:
+        explosive-options:
+          # If this is enabled blocks will not be effected by explosions.
+          block-damage: true
+          # When blocks are damaged from explosions, should all effected blocks be tossed in different directions?
+          block-physics: true
+          # When blocks are damaged from explosions, should they be effected by PTG's regeneration effects?
+          block-regeneration: true
+          # Here is where you can customize options that effect the block regeneration.
+          block-regeneration-options:
+            # This option is how fast each block is regenerated in ticks. (Note: 20 ticks equals 1 second.)
+            speed: 1
+            # This option is how long before the regeneration process takes place in ticks. (Note: 20 ticks equals 1 second.)
+            delay: 1
+          # Materials inside the list below will be avoided by any regeneration or physic effects involved with explosions.
+          effected-material-blacklist:
+          - "MOB_SPAWNER:0"
+          - "BEDROCK:0"
+          # When blocks are damaged from explosions, should the effected blocks drop their relative items?
+          block-drops: false
+          # If this option is enabled, previously destroyed container and sign contents will be restored to regenerated blocks.
+          block-restoration-memory: true
+          # Should destroyed containers drop their items?
+          # (Note: The items will be restored inside the container if the above option is enabled.)
+          container-drops: false
+          # The worlds inside the list below will not be effected by any explosive modification made by PTG.
+          blacklisted-worlds:
+          - "world_the_end"
+
+        block-break-options:
+          # If this is enabled PTG will listen when a player breaks a block and perform effects.
+          block-break-event: false
+          # When blocks are damaged by players, should the blocks be regenerated?
+          block-regeneration: true
+          # Here is where you can customize options that effect the block regeneration.
+          block-regeneration-options:
+            # This option is how long before the regeneration process takes place in ticks. (Note: 20 ticks equals 1 second.)
+            delay: 1
+          # Materials inside the list below will be avoided by any regeneration or physics effects involved with block breaking.
+          effected-material-blacklist:
+          - "OBSIDIAN:0"
+          - "BEDROCK:0"
+          # When blocks are damaged from players, should the effected blocks drop their relative items?
+          block-drops: false
+          # If this option is enabled, previously destroyed container and sign contents will be restored to regenerated blocks.
+          block-restoration-memory: true
+          # Should destroyed containers drop their items?
+          # (Note: The items will be restored inside the container if the above option is enabled.)
+          container-drops: false
+          # The worlds inside the list below will not be effected by any player block damage modified by PTG.
+          blacklisted-worlds:
+          - "world_the_end"

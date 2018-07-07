@@ -1,0 +1,212 @@
+inventory:
+  armor:
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
+  - null
+  contents:
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '§6List: '
+      - ' §l§81.§r §7Spawn Sheep'
+      - ' §l§82.§r §7Spawn Chicken'
+      - ' §l§83.§r §7Poppy'
+      - ' §l§84.§r §7Repeating Command Block'
+      - ' §l§85.§r §7Chain Command Block'
+      - ' §l§86.§r §7Trapped Chest'
+      - ' §l§87.§r §7Grass'
+      - ' §l§88.§r §7Slightly Damaged Anvil'
+      - ' §l§89.§r §7Grass Block'
+      - ' §l§8-§r §7Tersisa §a12 §7Item Lagi'
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 10
+        MENDING: 1
+        ARROW_DAMAGE: 10
+        DAMAGE_UNDEAD: 10
+        ARROW_KNOCKBACK: 10
+        KNOCKBACK: 1000
+        FIRE_ASPECT: 10
+        SWEEPING_EDGE: 10
+        LUCK: 10
+        LURE: 10
+      repair-cost: 4095
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '§6List: '
+      - ' §l§81.§r §7Spawn Sheep'
+      - ' §l§82.§r §7Spawn Chicken'
+      - ' §l§83.§r §7Poppy'
+      - ' §l§84.§r §7Repeating Command Block'
+      - ' §l§85.§r §7Chain Command Block'
+      - ' §l§86.§r §7Trapped Chest'
+      - ' §l§87.§r §7Grass'
+      - ' §l§88.§r §7Slightly Damaged Anvil'
+      - ' §l§89.§r §7Grass Block'
+      - ' §l§8-§r §7Tersisa §a12 §7Item Lagi'
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 10
+        MENDING: 1
+        ARROW_DAMAGE: 10
+        DAMAGE_UNDEAD: 10
+        ARROW_KNOCKBACK: 10
+        KNOCKBACK: 1000
+        FIRE_ASPECT: 10
+        SWEEPING_EDGE: 10
+        LUCK: 10
+        LURE: 10
+      repair-cost: 4095
+  - ==: org.bukkit.inventory.ItemStack
+    type: STONE
+  - ==: org.bukkit.inventory.ItemStack
+    type: BARRIER
+  - ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DAMAGE_ARTHROPODS: 5
+        FIRE_ASPECT: 2
+        THORNS: 3
+      repair-cost: 255
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '§6List: '
+      - ' §l§81.§r §7Spawn Sheep'
+      - ' §l§82.§r §7Spawn Chicken'
+      - ' §l§83.§r §7Poppy'
+      - ' §l§84.§r §7Repeating Command Block'
+      - ' §l§85.§r §7Chain Command Block'
+      - ' §l§86.§r §7Trapped Chest'
+      - ' §l§87.§r §7Grass'
+      - ' §l§88.§r §7Slightly Damaged Anvil'
+      - ' §l§89.§r §7Grass Block'
+      - ' §l§8-§r §7Tersisa §a12 §7Item Lagi'
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 10
+        MENDING: 1
+        ARROW_DAMAGE: 10
+        DAMAGE_UNDEAD: 10
+        ARROW_KNOCKBACK: 10
+        KNOCKBACK: 1000
+        FIRE_ASPECT: 10
+        SWEEPING_EDGE: 10
+        LUCK: 10
+        LURE: 10
+      repair-cost: 4095
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 8
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
+  - null
+  - null
+config:
+  showContents: true

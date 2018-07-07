@@ -18,6 +18,7 @@ public class Utils {
 		int i = 0;
 		for(Object change : from) {
 			target = target.replaceAll(change.toString(), to[i].toString());
+//			target = target.replaceAll(change.toString(), "NGETES");
 			i++;
 		}
 		return target;

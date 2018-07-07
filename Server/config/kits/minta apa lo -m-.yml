@@ -1,0 +1,47 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  contents:
+  - ==: org.bukkit.inventory.ItemStack
+    type: SAND
+    amount: 64
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+config:
+  showContents: true

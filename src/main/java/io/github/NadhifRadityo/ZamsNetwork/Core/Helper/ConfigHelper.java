@@ -3,13 +3,15 @@ package io.github.NadhifRadityo.ZamsNetwork.Core.Helper;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 
 import org.bukkit.configuration.file.YamlConfiguration;
 
-import io.github.NadhifRadityo.ZamsNetwork.Core.Exceptions.FileException;
 import io.github.NadhifRadityo.ZamsNetwork.Core.Exceptions.ConfigException;
+import io.github.NadhifRadityo.ZamsNetwork.Core.Exceptions.FileException;
 import io.github.NadhifRadityo.ZamsNetwork.Main.Main;
 
 public class ConfigHelper{
@@ -52,6 +54,49 @@ public class ConfigHelper{
 		}
 	}
 	
+	//Create Yaml with map
+	public void createYaml(String dir, Map<?, ?> data) throws ConfigException {
+		dir = this.fixedName(dir);
+		try {
+			this.createYaml(this.Plugin.Helper.FileHelper.getFile(dir), data);
+		} catch (FileException e) {
+			throw new ConfigException("Can not create yaml!", e);
+		}
+	}
+	public void createYaml(String path, String fileName, Map<?, ?> data) throws ConfigException {
+		fileName = this.fixedName(fileName); //check ".yml" things
+		try {
+			this.createYaml(this.Plugin.Helper.FileHelper.getFile(path, fileName), data);
+		} catch (FileException e) {
+			throw new ConfigException("Can not create yaml!", e);
+		}
+	}
+	public void createYaml(File file, Map<?, ?> data) throws ConfigException {
+		YamlConfiguration Yaml = new YamlConfiguration();
+		this.setYaml(Yaml, data, null);
+		try {
+			Yaml.save(file);
+		}catch(IOException e) {
+			throw new ConfigException("Can not create yaml!", e);
+		}
+	}
+	private void setYaml(YamlConfiguration yaml, Map<?, ?> data, String parent) {
+		if(parent != null && !parent.equals("") && parent.split("")[parent.split("").length - 1] != ".") {
+			parent += ".";
+		}
+		if(parent == null) {
+			parent = "";
+		}
+		
+		for(Entry<?, ?> pair : data.entrySet()) {
+			if(pair.getValue() instanceof Map || pair.getValue() instanceof HashMap) {
+				this.setYaml(yaml, (Map<?, ?>) pair.getValue(), parent + pair.getKey().toString());
+			}
+			
+			yaml.set(parent + pair.getKey().toString(), pair.getValue());
+		}
+	}
+	
 	//Read Yaml
 	public ArrayList<Object> readYaml(String dir, String[] finds) throws ConfigException {
 		dir = this.fixedName(dir);
@@ -70,12 +115,12 @@ public class ConfigHelper{
 		}
 	}
 	public ArrayList<Object> readYaml(File file, String[] finds) throws ConfigException {
-		YamlConfiguration Contents = null;
-		Contents = this.getYaml(file);
-		
+		return this.readYaml(this.getYaml(file), finds);
+	}
+	public ArrayList<Object> readYaml(YamlConfiguration yaml, String[] finds) throws ConfigException {
 		ArrayList<Object> result = new ArrayList<Object>();
 		for(String find : finds) {
-			result.add(Contents.get(find));
+			result.add(yaml.get(find));
 		}
 		return result;
 	}

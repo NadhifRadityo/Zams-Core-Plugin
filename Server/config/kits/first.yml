@@ -1,0 +1,108 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  contents:
+  - ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: SPAWN_EGG
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeDPzcxLTS5KTCuxKs5ITS1gYAAAYb2CQScAAAA=
+      id: sheep
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: SPAWN_EGG
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYRDMzcxLTS5KTCuxSs7ITM5OzWNgAAB4qmmVKQAAAA==
+      id: chicken
+  - ==: org.bukkit.inventory.ItemStack
+    type: RED_ROSE
+  - ==: org.bukkit.inventory.ItemStack
+    type: COMMAND_REPEATING
+  - ==: org.bukkit.inventory.ItemStack
+    type: COMMAND_CHAIN
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRAPPED_CHEST
+  - ==: org.bukkit.inventory.ItemStack
+    type: LONG_GRASS
+    damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+    damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: GRASS
+  - ==: org.bukkit.inventory.ItemStack
+    type: SAND
+  - ==: org.bukkit.inventory.ItemStack
+    type: SUGAR_CANE
+  - ==: org.bukkit.inventory.ItemStack
+    type: DOUBLE_PLANT
+    damage: 4
+  - ==: org.bukkit.inventory.ItemStack
+    type: DAYLIGHT_DETECTOR
+  - ==: org.bukkit.inventory.ItemStack
+    type: GRAVEL
+  - ==: org.bukkit.inventory.ItemStack
+    type: LOG
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEAVES
+    damage: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: LOG
+    damage: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEAVES
+  - ==: org.bukkit.inventory.ItemStack
+    type: LOG_2
+    damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEAVES_2
+    damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: REDSTONE
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+config:
+  showContents: true
+  display:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 10
+        DURABILITY: 3
+        LOOT_BONUS_BLOCKS: 10
+        MENDING: 1
+        ARROW_DAMAGE: 10
+        DAMAGE_UNDEAD: 10
+        ARROW_KNOCKBACK: 10
+        KNOCKBACK: 1000
+        FIRE_ASPECT: 10
+        SWEEPING_EDGE: 10
+        LUCK: 10
+        LURE: 10
+      repair-cost: 4095

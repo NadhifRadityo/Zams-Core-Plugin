@@ -1,0 +1,83 @@
+# ============CONFIG.YML============ #
+GiveItemOnJoin:
+  material: BONE
+  enable: 'true'
+  name: '&e&lEpicPets menu'
+  slot: '1'
+enableSoundClickMenu: true
+ResurrectPrice: 100
+Foods:
+  Prices:
+    cherry: 150
+    popcorn: 150
+    candy_cane: 150
+    tomato: 150
+    fanta: 150
+    hamburger: 150
+    nutella: 150
+    chocolate_muffin: 150
+    apple: 150
+    lemon: 150
+    ham: 150
+    mountain_dew: 150
+    cake: 150
+    sprite: 150
+    fries: 150
+    sushi_roll: 150
+    melon: 150
+    white_frosted_donut: 150
+    honey_pot: 150
+    beer: 150
+    bread: 150
+    ham_cheese_sandwich: 150
+    cookie: 150
+    coca_cola: 150
+    strawberry: 150
+    pepsi: 150
+    lettuce: 150
+    taco: 150
+    coconut: 150
+    orange: 150
+    bacon: 150
+    purple_grapes: 150
+    turkey: 150
+    mello_yello: 150
+    bowl_of_spaghetti_and_meatballs: 150
+    carrot: 150
+  Amounts:
+    cherry: 5
+    popcorn: 45
+    candy_cane: 25
+    tomato: 20
+    fanta: 30
+    hamburger: 60
+    nutella: 40
+    chocolate_muffin: 30
+    apple: 10
+    lemon: 75
+    ham: 52
+    mountain_dew: 14
+    cake: 50
+    sprite: 12
+    fries: 20
+    sushi_roll: 34
+    melon: 30
+    white_frosted_donut: 30
+    honey_pot: 65
+    beer: 24
+    bread: 30
+    ham_cheese_sandwich: 63
+    cookie: 10
+    coca_cola: 56
+    strawberry: 5
+    pepsi: 43
+    lettuce: 25
+    taco: 13
+    coconut: 21
+    orange: 21
+    bacon: 43
+    purple_grapes: 75
+    turkey: 36
+    mello_yello: 64
+    bowl_of_spaghetti_and_meatballs: 23
+    carrot: 15

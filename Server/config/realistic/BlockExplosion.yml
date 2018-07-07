@@ -1,0 +1,28 @@
+explosive-options:
+  block-drops: false
+  effected-material-blacklist:
+  - MOB_SPAWNER:0
+  - BEDROCK:0
+  container-drops: false
+  block-regeneration-options:
+    delay: 1
+    speed: 1
+  blacklisted-worlds:
+  - world_the_end
+  block-restoration-memory: true
+  block-physics: true
+  block-regeneration: true
+  block-damage: true
+block-break-options:
+  block-drops: false
+  effected-material-blacklist:
+  - OBSIDIAN:0
+  - BEDROCK:0
+  container-drops: false
+  block-break-event: false
+  block-regeneration-options:
+    delay: 1
+  blacklisted-worlds:
+  - world_the_end
+  block-restoration-memory: true
+  block-regeneration: true

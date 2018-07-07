@@ -3,7 +3,7 @@ package io.github.NadhifRadityo.ZamsNetwork.Core.Things;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 
-import io.github.NadhifRadityo.ZamsNetwork.Core.GetCommandExecutorClass;
+import io.github.NadhifRadityo.ZamsNetwork.Core.Initialize.Commands.GetCommandExecutorClass;
 import io.github.NadhifRadityo.ZamsNetwork.Main.Main;
 
 public class ResetConfig implements GetCommandExecutorClass {

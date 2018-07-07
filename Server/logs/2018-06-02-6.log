@@ -1,0 +1,1269 @@
+[11:20:22] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[11:20:22] [Server thread/INFO]: Loading properties
+[11:20:22] [Server thread/INFO]: Default game type: SURVIVAL
+[11:20:22] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-2086bb0-8cc5a7e (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[11:20:23] [Server thread/INFO]: Debug logging is disabled
+[11:20:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:20:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:20:23] [Server thread/INFO]: Generating keypair
+[11:20:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:20:23] [Server thread/INFO]: Using default channel type
+[11:20:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:20:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:20:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:20:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:20:23] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:20:23] [Server thread/INFO]: Preparing level "world"
+[11:20:24] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:20:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:20:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:20:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:20:24] [Server thread/INFO]: View Distance: 10
+[11:20:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:20:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:20:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:20:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:20:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:20:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:20:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:20:24] [Server thread/INFO]: Max TNT Explosions: 100
+[11:20:24] [Server thread/INFO]: Structure Info Saving: true
+[11:20:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:20:24] [Server thread/INFO]: Random Lighting Updates: false
+[11:20:24] [Server thread/INFO]: Mob Spawn Range: 4
+[11:20:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:20:24] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:20:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:20:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:20:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:20:24] [Server thread/INFO]: View Distance: 10
+[11:20:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:20:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:20:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:20:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:20:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:20:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:20:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:20:24] [Server thread/INFO]: Max TNT Explosions: 100
+[11:20:24] [Server thread/INFO]: Structure Info Saving: true
+[11:20:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:20:24] [Server thread/INFO]: Random Lighting Updates: false
+[11:20:24] [Server thread/INFO]: Mob Spawn Range: 4
+[11:20:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:20:24] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:20:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:20:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:20:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:20:24] [Server thread/INFO]: View Distance: 10
+[11:20:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:20:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:20:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:20:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:20:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:20:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:20:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:20:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:20:24] [Server thread/INFO]: Max TNT Explosions: 100
+[11:20:24] [Server thread/INFO]: Structure Info Saving: true
+[11:20:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:20:24] [Server thread/INFO]: Random Lighting Updates: false
+[11:20:24] [Server thread/INFO]: Mob Spawn Range: 4
+[11:20:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:20:25] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1596288599612155401)
+[11:20:26] [Server thread/INFO]: Preparing spawn area: 3%
+[11:20:27] [Server thread/INFO]: Preparing spawn area: 69%
+[11:20:27] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1596288599612155401)
+[11:20:28] [Server thread/INFO]: Preparing spawn area: 91%
+[11:20:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1596288599612155401)
+[11:20:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:20:29] [Server thread/INFO]: Done (5.293s)! For help, type "help" or "?"
+[11:20:35] [User Authenticator #1/INFO]: UUID of player NadhifRadityo is 59678057-4ed3-3a3f-b34f-e0229b7153f4
+[11:20:36] [Server thread/INFO]: NadhifRadityo[/127.0.0.1:53657] logged in with entity id 798 at ([world]-235.5, 70.0, 131.5)
+[11:20:48] [Server thread/INFO]: Opped NadhifRadityo
+[11:20:54] [Server thread/INFO]: NadhifRadityo issued server command: /gamemode 1
+[11:20:54] [Server thread/INFO]: [NadhifRadityo: Set own game mode to Creative Mode]
+[11:21:07] [Server thread/INFO]: NadhifRadityo issued server command: /help
+[11:21:17] [Server thread/INFO]: NadhifRadityo issued server command: /advancement
+[11:21:23] [Server thread/INFO]: NadhifRadityo issued server command: /advancement test NadhifRadityo
+[11:21:33] [Server thread/INFO]: NadhifRadityo issued server command: /advancement test NadhifRadityo minecraft:adventure/adventuring_time beaches
+[11:21:33] [Server thread/INFO]: [NadhifRadityo: Player NadhifRadityo has not completed criterion 'beaches' of advancement 'minecraft:adventure/adventuring_time']
+[11:28:15] [Async Chat Thread - #0/INFO]: <NadhifRadityo> a
+[11:28:19] [Async Chat Thread - #0/INFO]: <NadhifRadityo> oeoeoe
+[11:28:22] [Server thread/INFO]: NadhifRadityo issued server command: /tps
+[11:28:24] [Server thread/INFO]: NadhifRadityo issued server command: /tps
+[11:28:24] [Server thread/INFO]: NadhifRadityo issued server command: /tps
+[11:28:25] [Server thread/INFO]: NadhifRadityo issued server command: /tps
+[11:28:25] [Server thread/INFO]: NadhifRadityo issued server command: /tps
+[11:28:26] [Server thread/INFO]: NadhifRadityo issued server command: /tps
+[11:28:26] [Server thread/INFO]: NadhifRadityo issued server command: /tps
+[11:28:27] [Server thread/INFO]: NadhifRadityo issued server command: /tps
+[11:28:27] [Server thread/INFO]: NadhifRadityo issued server command: /tps
+[11:29:38] [Server thread/INFO]: NadhifRadityo issued server command: /pl
+[11:29:39] [Server thread/INFO]: NadhifRadityo issued server command: /reload
+[11:29:39] [Server thread/INFO]: NadhifRadityo: Please note that this command is not supported and may cause issues when using some plugins.
+[11:29:39] [Server thread/INFO]: NadhifRadityo: If you encounter any issues please use the /stop command to restart your server.
+[11:29:40] [Server thread/INFO]: Debug logging is disabled
+[11:29:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:29:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:29:40] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:29:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:29:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:29:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:29:40] [Server thread/INFO]: View Distance: 10
+[11:29:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:29:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:29:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:29:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:29:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:29:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:29:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:29:40] [Server thread/INFO]: Max TNT Explosions: 100
+[11:29:40] [Server thread/INFO]: Structure Info Saving: true
+[11:29:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:29:40] [Server thread/INFO]: Random Lighting Updates: false
+[11:29:40] [Server thread/INFO]: Mob Spawn Range: 4
+[11:29:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:29:40] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:29:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:29:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:29:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:29:40] [Server thread/INFO]: View Distance: 10
+[11:29:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:29:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:29:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:29:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:29:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:29:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:29:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:29:40] [Server thread/INFO]: Max TNT Explosions: 100
+[11:29:40] [Server thread/INFO]: Structure Info Saving: true
+[11:29:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:29:40] [Server thread/INFO]: Random Lighting Updates: false
+[11:29:40] [Server thread/INFO]: Mob Spawn Range: 4
+[11:29:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:29:40] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:29:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:29:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:29:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:29:40] [Server thread/INFO]: View Distance: 10
+[11:29:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:29:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:29:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:29:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:29:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:29:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:29:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:29:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:29:40] [Server thread/INFO]: Max TNT Explosions: 100
+[11:29:40] [Server thread/INFO]: Structure Info Saving: true
+[11:29:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:29:40] [Server thread/INFO]: Random Lighting Updates: false
+[11:29:40] [Server thread/INFO]: Mob Spawn Range: 4
+[11:29:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:29:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:29:40] [Server thread/INFO]: NadhifRadityo: Reload complete.
+[11:29:42] [Server thread/INFO]: NadhifRadityo issued server command: /pl
+[11:31:47] [Server thread/INFO]: NadhifRadityo issued server command: /reload
+[11:31:47] [Server thread/INFO]: NadhifRadityo: Please note that this command is not supported and may cause issues when using some plugins.
+[11:31:47] [Server thread/INFO]: NadhifRadityo: If you encounter any issues please use the /stop command to restart your server.
+[11:31:47] [Server thread/INFO]: Debug logging is disabled
+[11:31:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:31:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:31:47] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:31:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:31:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:31:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:31:47] [Server thread/INFO]: View Distance: 10
+[11:31:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:31:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:31:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:31:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:31:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:31:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:31:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:31:47] [Server thread/INFO]: Max TNT Explosions: 100
+[11:31:47] [Server thread/INFO]: Structure Info Saving: true
+[11:31:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:31:47] [Server thread/INFO]: Random Lighting Updates: false
+[11:31:47] [Server thread/INFO]: Mob Spawn Range: 4
+[11:31:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:31:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:31:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:31:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:31:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:31:47] [Server thread/INFO]: View Distance: 10
+[11:31:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:31:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:31:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:31:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:31:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:31:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:31:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:31:47] [Server thread/INFO]: Max TNT Explosions: 100
+[11:31:47] [Server thread/INFO]: Structure Info Saving: true
+[11:31:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:31:47] [Server thread/INFO]: Random Lighting Updates: false
+[11:31:47] [Server thread/INFO]: Mob Spawn Range: 4
+[11:31:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:31:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:31:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:31:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:31:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:31:47] [Server thread/INFO]: View Distance: 10
+[11:31:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:31:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:31:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:31:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:31:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:31:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:31:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:31:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:31:47] [Server thread/INFO]: Max TNT Explosions: 100
+[11:31:47] [Server thread/INFO]: Structure Info Saving: true
+[11:31:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:31:47] [Server thread/INFO]: Random Lighting Updates: false
+[11:31:47] [Server thread/INFO]: Mob Spawn Range: 4
+[11:31:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:31:48] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[11:31:48] [Server thread/INFO]: [ZamsPlugin] Loading ZamsPlugin v1.0
+[11:31:48] [Server thread/INFO]: [ZamsPlugin] Enabling ZamsPlugin v1.0
+[11:31:48] [Server thread/INFO]: Zams Core Plugin Enabled
+[11:31:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:31:48] [Server thread/INFO]: NadhifRadityo: Reload complete.
+[11:31:50] [Server thread/INFO]: NadhifRadityo issued server command: /time set day
+[11:31:50] [Server thread/INFO]: [NadhifRadityo: Set the time to 1000]
+[11:31:51] [Server thread/INFO]: NadhifRadityo issued server command: /pl
+[11:31:54] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:31:54] [Server thread/INFO]: NadhifRadityo has made the advancement [Diamonds!]
+[11:32:58] [Server thread/INFO]: NadhifRadityo issued server command: /reload
+[11:32:58] [Server thread/INFO]: NadhifRadityo: Please note that this command is not supported and may cause issues when using some plugins.
+[11:32:58] [Server thread/INFO]: NadhifRadityo: If you encounter any issues please use the /stop command to restart your server.
+[11:32:58] [Server thread/INFO]: Debug logging is disabled
+[11:32:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:32:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:32:58] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:32:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:32:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:32:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:32:58] [Server thread/INFO]: View Distance: 10
+[11:32:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:32:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:32:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:32:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:32:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:32:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:32:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:32:58] [Server thread/INFO]: Max TNT Explosions: 100
+[11:32:58] [Server thread/INFO]: Structure Info Saving: true
+[11:32:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:32:58] [Server thread/INFO]: Random Lighting Updates: false
+[11:32:58] [Server thread/INFO]: Mob Spawn Range: 4
+[11:32:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:32:58] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:32:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:32:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:32:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:32:58] [Server thread/INFO]: View Distance: 10
+[11:32:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:32:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:32:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:32:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:32:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:32:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:32:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:32:58] [Server thread/INFO]: Max TNT Explosions: 100
+[11:32:58] [Server thread/INFO]: Structure Info Saving: true
+[11:32:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:32:58] [Server thread/INFO]: Random Lighting Updates: false
+[11:32:58] [Server thread/INFO]: Mob Spawn Range: 4
+[11:32:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:32:58] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:32:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:32:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:32:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:32:58] [Server thread/INFO]: View Distance: 10
+[11:32:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:32:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:32:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:32:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:32:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:32:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:32:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:32:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:32:58] [Server thread/INFO]: Max TNT Explosions: 100
+[11:32:58] [Server thread/INFO]: Structure Info Saving: true
+[11:32:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:32:58] [Server thread/INFO]: Random Lighting Updates: false
+[11:32:58] [Server thread/INFO]: Mob Spawn Range: 4
+[11:32:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:32:58] [Server thread/INFO]: [ZamsPlugin] Disabling ZamsPlugin v1.0
+[11:32:58] [Server thread/INFO]: Zams Core Plugin Disable
+[11:32:59] [Server thread/INFO]: [ZamsPlugin] Loading ZamsPlugin v1.0
+[11:32:59] [Server thread/INFO]: [ZamsPlugin] Enabling ZamsPlugin v1.0
+[11:32:59] [Server thread/INFO]: Zams Core Plugin Enabled
+[11:32:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:32:59] [Server thread/INFO]: NadhifRadityo: Reload complete.
+[11:33:01] [Server thread/INFO]: NadhifRadityo issued server command: /pl
+[11:33:04] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:33:04] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 0
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:32) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:34:47] [Server thread/INFO]: NadhifRadityo issued server command: /reload
+[11:34:47] [Server thread/INFO]: NadhifRadityo: Please note that this command is not supported and may cause issues when using some plugins.
+[11:34:47] [Server thread/INFO]: NadhifRadityo: If you encounter any issues please use the /stop command to restart your server.
+[11:34:47] [Server thread/INFO]: Debug logging is disabled
+[11:34:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:34:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:34:47] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:34:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:34:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:34:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:34:47] [Server thread/INFO]: View Distance: 10
+[11:34:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:34:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:34:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:34:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:34:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:34:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:34:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:34:47] [Server thread/INFO]: Max TNT Explosions: 100
+[11:34:47] [Server thread/INFO]: Structure Info Saving: true
+[11:34:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:34:47] [Server thread/INFO]: Random Lighting Updates: false
+[11:34:47] [Server thread/INFO]: Mob Spawn Range: 4
+[11:34:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:34:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:34:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:34:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:34:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:34:47] [Server thread/INFO]: View Distance: 10
+[11:34:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:34:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:34:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:34:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:34:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:34:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:34:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:34:47] [Server thread/INFO]: Max TNT Explosions: 100
+[11:34:47] [Server thread/INFO]: Structure Info Saving: true
+[11:34:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:34:47] [Server thread/INFO]: Random Lighting Updates: false
+[11:34:47] [Server thread/INFO]: Mob Spawn Range: 4
+[11:34:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:34:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:34:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:34:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:34:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:34:47] [Server thread/INFO]: View Distance: 10
+[11:34:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:34:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:34:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:34:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:34:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:34:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:34:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:34:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:34:47] [Server thread/INFO]: Max TNT Explosions: 100
+[11:34:47] [Server thread/INFO]: Structure Info Saving: true
+[11:34:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:34:47] [Server thread/INFO]: Random Lighting Updates: false
+[11:34:47] [Server thread/INFO]: Mob Spawn Range: 4
+[11:34:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:34:48] [Server thread/INFO]: [ZamsPlugin] Disabling ZamsPlugin v1.0
+[11:34:48] [Server thread/INFO]: Zams Core Plugin Disable
+[11:34:48] [Server thread/INFO]: [ZamsPlugin] Loading ZamsPlugin v1.0
+[11:34:48] [Server thread/INFO]: [ZamsPlugin] Enabling ZamsPlugin v1.0
+[11:34:48] [Server thread/INFO]: Zams Core Plugin Enabled
+[11:34:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:34:48] [Server thread/INFO]: NadhifRadityo: Reload complete.
+[11:34:51] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:34:51] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	The method sendChat(Player, String) in the type Helper is not applicable for the arguments (Player, String[])
+
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:32) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:35:12] [Server thread/INFO]: NadhifRadityo issued server command: /reload
+[11:35:12] [Server thread/INFO]: NadhifRadityo: Please note that this command is not supported and may cause issues when using some plugins.
+[11:35:12] [Server thread/INFO]: NadhifRadityo: If you encounter any issues please use the /stop command to restart your server.
+[11:35:12] [Server thread/INFO]: Debug logging is disabled
+[11:35:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:35:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:35:12] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:35:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:35:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:35:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:35:12] [Server thread/INFO]: View Distance: 10
+[11:35:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:35:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:35:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:35:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:35:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:35:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:35:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:35:12] [Server thread/INFO]: Max TNT Explosions: 100
+[11:35:12] [Server thread/INFO]: Structure Info Saving: true
+[11:35:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:35:12] [Server thread/INFO]: Random Lighting Updates: false
+[11:35:12] [Server thread/INFO]: Mob Spawn Range: 4
+[11:35:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:35:12] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:35:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:35:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:35:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:35:12] [Server thread/INFO]: View Distance: 10
+[11:35:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:35:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:35:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:35:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:35:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:35:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:35:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:35:12] [Server thread/INFO]: Max TNT Explosions: 100
+[11:35:12] [Server thread/INFO]: Structure Info Saving: true
+[11:35:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:35:12] [Server thread/INFO]: Random Lighting Updates: false
+[11:35:12] [Server thread/INFO]: Mob Spawn Range: 4
+[11:35:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:35:12] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:35:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:35:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:35:12] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:35:12] [Server thread/INFO]: View Distance: 10
+[11:35:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:35:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:35:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:35:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:35:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:35:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:35:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:35:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:35:12] [Server thread/INFO]: Max TNT Explosions: 100
+[11:35:12] [Server thread/INFO]: Structure Info Saving: true
+[11:35:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:35:12] [Server thread/INFO]: Random Lighting Updates: false
+[11:35:12] [Server thread/INFO]: Mob Spawn Range: 4
+[11:35:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:35:12] [Server thread/INFO]: [ZamsPlugin] Disabling ZamsPlugin v1.0
+[11:35:12] [Server thread/INFO]: Zams Core Plugin Disable
+[11:35:12] [Server thread/INFO]: [ZamsPlugin] Loading ZamsPlugin v1.0
+[11:35:12] [Server thread/INFO]: [ZamsPlugin] Enabling ZamsPlugin v1.0
+[11:35:12] [Server thread/INFO]: Zams Core Plugin Enabled
+[11:35:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:35:12] [Server thread/INFO]: NadhifRadityo: Reload complete.
+[11:35:14] [Server thread/INFO]: NadhifRadityo issued server command: /pl
+[11:35:15] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:35:19] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:36:25] [Server thread/INFO]: NadhifRadityo issued server command: /reload
+[11:36:25] [Server thread/INFO]: NadhifRadityo: Please note that this command is not supported and may cause issues when using some plugins.
+[11:36:25] [Server thread/INFO]: NadhifRadityo: If you encounter any issues please use the /stop command to restart your server.
+[11:36:25] [Server thread/INFO]: Debug logging is disabled
+[11:36:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:36:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:36:25] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:36:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:36:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:36:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:36:25] [Server thread/INFO]: View Distance: 10
+[11:36:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:36:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:36:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:36:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:36:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:36:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:36:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:36:25] [Server thread/INFO]: Max TNT Explosions: 100
+[11:36:25] [Server thread/INFO]: Structure Info Saving: true
+[11:36:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:36:25] [Server thread/INFO]: Random Lighting Updates: false
+[11:36:25] [Server thread/INFO]: Mob Spawn Range: 4
+[11:36:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:36:25] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:36:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:36:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:36:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:36:25] [Server thread/INFO]: View Distance: 10
+[11:36:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:36:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:36:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:36:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:36:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:36:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:36:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:36:25] [Server thread/INFO]: Max TNT Explosions: 100
+[11:36:25] [Server thread/INFO]: Structure Info Saving: true
+[11:36:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:36:25] [Server thread/INFO]: Random Lighting Updates: false
+[11:36:25] [Server thread/INFO]: Mob Spawn Range: 4
+[11:36:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:36:25] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:36:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:36:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:36:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:36:25] [Server thread/INFO]: View Distance: 10
+[11:36:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:36:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:36:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:36:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:36:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:36:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:36:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:36:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:36:25] [Server thread/INFO]: Max TNT Explosions: 100
+[11:36:25] [Server thread/INFO]: Structure Info Saving: true
+[11:36:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:36:25] [Server thread/INFO]: Random Lighting Updates: false
+[11:36:25] [Server thread/INFO]: Mob Spawn Range: 4
+[11:36:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:36:25] [Server thread/INFO]: [ZamsPlugin] Disabling ZamsPlugin v1.0
+[11:36:25] [Server thread/INFO]: Zams Core Plugin Disable
+[11:36:25] [Server thread/INFO]: [ZamsPlugin] Loading ZamsPlugin v1.0
+[11:36:25] [Server thread/INFO]: [ZamsPlugin] Enabling ZamsPlugin v1.0
+[11:36:25] [Server thread/INFO]: Zams Core Plugin Enabled
+[11:36:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:36:25] [Server thread/INFO]: NadhifRadityo: Reload complete.
+[11:36:27] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:36:31] [Server thread/INFO]: NadhifRadityo issued server command: /kits a
+[11:36:36] [Server thread/INFO]: NadhifRadityo issued server command: /kits UWO HU
+[11:37:48] [Server thread/INFO]: NadhifRadityo issued server command: /reload
+[11:37:48] [Server thread/INFO]: NadhifRadityo: Please note that this command is not supported and may cause issues when using some plugins.
+[11:37:48] [Server thread/INFO]: NadhifRadityo: If you encounter any issues please use the /stop command to restart your server.
+[11:37:48] [Server thread/INFO]: Debug logging is disabled
+[11:37:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:37:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:37:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:37:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:37:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:37:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:37:48] [Server thread/INFO]: View Distance: 10
+[11:37:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:37:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:37:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:37:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:37:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:37:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:37:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:37:48] [Server thread/INFO]: Max TNT Explosions: 100
+[11:37:48] [Server thread/INFO]: Structure Info Saving: true
+[11:37:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:37:48] [Server thread/INFO]: Random Lighting Updates: false
+[11:37:48] [Server thread/INFO]: Mob Spawn Range: 4
+[11:37:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:37:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:37:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:37:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:37:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:37:48] [Server thread/INFO]: View Distance: 10
+[11:37:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:37:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:37:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:37:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:37:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:37:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:37:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:37:48] [Server thread/INFO]: Max TNT Explosions: 100
+[11:37:48] [Server thread/INFO]: Structure Info Saving: true
+[11:37:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:37:48] [Server thread/INFO]: Random Lighting Updates: false
+[11:37:48] [Server thread/INFO]: Mob Spawn Range: 4
+[11:37:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:37:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:37:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:37:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:37:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:37:48] [Server thread/INFO]: View Distance: 10
+[11:37:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:37:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:37:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:37:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:37:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:37:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:37:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:37:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:37:48] [Server thread/INFO]: Max TNT Explosions: 100
+[11:37:48] [Server thread/INFO]: Structure Info Saving: true
+[11:37:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:37:48] [Server thread/INFO]: Random Lighting Updates: false
+[11:37:48] [Server thread/INFO]: Mob Spawn Range: 4
+[11:37:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:37:48] [Server thread/INFO]: [ZamsPlugin] Disabling ZamsPlugin v1.0
+[11:37:48] [Server thread/INFO]: Zams Core Plugin Disable
+[11:37:48] [Server thread/INFO]: [ZamsPlugin] Loading ZamsPlugin v1.0
+[11:37:48] [Server thread/INFO]: [ZamsPlugin] Enabling ZamsPlugin v1.0
+[11:37:48] [Server thread/INFO]: Zams Core Plugin Enabled
+[11:37:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:37:48] [Server thread/INFO]: NadhifRadityo: Reload complete.
+[11:37:50] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:37:50] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 0
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:37:53] [Server thread/INFO]: NadhifRadityo issued server command: /kits a
+[11:37:57] [Server thread/INFO]: NadhifRadityo issued server command: /kits set
+[11:37:57] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:35) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:38:00] [Server thread/INFO]: NadhifRadityo issued server command: /kits set a
+[11:38:06] [Server thread/INFO]: NadhifRadityo issued server command: /kits set b
+[11:38:54] [Server thread/INFO]: NadhifRadityo issued server command: /reload
+[11:38:54] [Server thread/INFO]: NadhifRadityo: Please note that this command is not supported and may cause issues when using some plugins.
+[11:38:54] [Server thread/INFO]: NadhifRadityo: If you encounter any issues please use the /stop command to restart your server.
+[11:38:54] [Server thread/INFO]: Debug logging is disabled
+[11:38:54] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:38:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:38:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:38:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:38:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:38:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:38:54] [Server thread/INFO]: View Distance: 10
+[11:38:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:38:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:38:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:38:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:38:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:38:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:38:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:38:54] [Server thread/INFO]: Max TNT Explosions: 100
+[11:38:54] [Server thread/INFO]: Structure Info Saving: true
+[11:38:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:38:54] [Server thread/INFO]: Random Lighting Updates: false
+[11:38:54] [Server thread/INFO]: Mob Spawn Range: 4
+[11:38:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:38:54] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:38:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:38:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:38:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:38:54] [Server thread/INFO]: View Distance: 10
+[11:38:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:38:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:38:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:38:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:38:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:38:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:38:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:38:54] [Server thread/INFO]: Max TNT Explosions: 100
+[11:38:54] [Server thread/INFO]: Structure Info Saving: true
+[11:38:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:38:54] [Server thread/INFO]: Random Lighting Updates: false
+[11:38:54] [Server thread/INFO]: Mob Spawn Range: 4
+[11:38:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:38:54] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:38:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:38:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:38:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:38:54] [Server thread/INFO]: View Distance: 10
+[11:38:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:38:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:38:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:38:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:38:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:38:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:38:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:38:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:38:54] [Server thread/INFO]: Max TNT Explosions: 100
+[11:38:54] [Server thread/INFO]: Structure Info Saving: true
+[11:38:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:38:54] [Server thread/INFO]: Random Lighting Updates: false
+[11:38:54] [Server thread/INFO]: Mob Spawn Range: 4
+[11:38:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:38:54] [Server thread/INFO]: [ZamsPlugin] Disabling ZamsPlugin v1.0
+[11:38:54] [Server thread/INFO]: Zams Core Plugin Disable
+[11:38:55] [Server thread/INFO]: [ZamsPlugin] Loading ZamsPlugin v1.0
+[11:38:55] [Server thread/INFO]: [ZamsPlugin] Enabling ZamsPlugin v1.0
+[11:38:55] [Server thread/INFO]: Zams Core Plugin Enabled
+[11:38:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:38:55] [Server thread/INFO]: NadhifRadityo: Reload complete.
+[11:38:57] [Server thread/INFO]: NadhifRadityo issued server command: /pl
+[11:39:01] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:39:01] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:39:04] [Server thread/INFO]: NadhifRadityo issued server command: /kits a
+[11:39:04] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:39:11] [Server thread/INFO]: NadhifRadityo issued server command: /kits TEST
+[11:39:11] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:39:43] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:39:43] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:40:24] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:40:24] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:43:05] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:43:05] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:43:17] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:43:17] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:43:34] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:43:34] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:43:38] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:43:38] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more
+[11:44:15] [Server thread/INFO]: NadhifRadityo issued server command: /kits
+[11:44:15] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'kits' in plugin ZamsPlugin v1.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1397) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1232) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_111]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_111]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Kits.onCommand(Kits.java:34) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.CommandsHandler(Commands.java:31) ~[?:?]
+	at io.github.NadhifRadityo.ZamsNetwork.Core.Commands.onCommand(Commands.java:52) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[1.12.2.jar:git-Spigot-2086bb0-8cc5a7e]
+	... 15 more

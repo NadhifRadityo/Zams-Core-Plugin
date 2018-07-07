@@ -5,7 +5,7 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
 import io.github.NadhifRadityo.ZamsNetwork.Core.GetClass;
-import io.github.NadhifRadityo.ZamsNetwork.Core.GetCommandExecutorClass;
+import io.github.NadhifRadityo.ZamsNetwork.Core.Initialize.Commands.GetCommandExecutorClass;
 import io.github.NadhifRadityo.ZamsNetwork.Main.Main;
 
 public class CallClassInGame implements CommandExecutor, GetCommandExecutorClass, GetClass{
@@ -28,14 +28,14 @@ public class CallClassInGame implements CommandExecutor, GetCommandExecutorClass
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
 		if(!this.Plugin.Helper.DataHelper.isEmptyArrayString(args)) {
 			GetClass Clazz = this.Plugin.Helper.getClass(args[0]);
-			Clazz.AccessMethod();
+			Clazz.AccessMethod(this.Plugin);
 		}
 
 		return true;
 	}
 
 	@Override
-	public void AccessMethod() {
+	public void AccessMethod(Main plugin) {
 		System.out.println("What the F.. orm!");
 	}
 }

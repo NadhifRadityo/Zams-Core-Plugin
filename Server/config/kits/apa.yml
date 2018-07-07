@@ -1,0 +1,122 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  contents:
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: BEDROCK
+    amount: 64
+  - null
+cost: 10000000
+config:
+  showContents: true
+  showIfDoesntHasPermission: true
+  display:
+    ==: org.bukkit.inventory.ItemStack
+    type: SIGN
+permissions:
+- apaya.ah

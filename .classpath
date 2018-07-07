@@ -33,11 +33,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="D:/Tio/MC Server Build/1.12.2.jar"/>
-	<classpathentry kind="lib" path="D:/Tio/MC Server Build/Zams Pl/Json java/java-json.jar"/>
-	<classpathentry kind="lib" path="D:/Tio/MC Server Build/Zams Pl/yamlbeans-1.06.jar"/>
-	<classpathentry kind="lib" path="D:/Tio/MC Server Build/Zams Pl/1/annotations-2.0.1.jar"/>
-	<classpathentry kind="lib" path="D:/Tio/MC Server Build/Zams Pl/1/guava-15.0.jar"/>
-	<classpathentry kind="lib" path="D:/Tio/MC Server Build/Zams Pl/1/javassist-3.19.0-GA.jar"/>
-	<classpathentry kind="lib" path="D:/Tio/MC Server Build/Zams Pl/1/reflections-0.9.10.jar"/>
+	<classpathentry kind="lib" path="D:/Tio/MC Server Build/Zams Pl/GoogleGuava.jar"/>
+	<classpathentry kind="lib" path="D:/Tio/MC Server Build/Zams Pl/MigLayout.jar"/>
+	<classpathentry kind="lib" path="D:/Tio/MC Server Build/Zams Pl/JFreeChart.jar"/>
+	<classpathentry kind="lib" path="D:/Tio/MC Server Build/Zams Pl/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

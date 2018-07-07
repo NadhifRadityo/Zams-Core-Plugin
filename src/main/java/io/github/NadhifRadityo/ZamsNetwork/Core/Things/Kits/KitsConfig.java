@@ -5,12 +5,12 @@ import org.bukkit.inventory.ItemStack;
 public class KitsConfig {
 	private ItemStack display;
 	private boolean showContents;
+	private boolean showIfDoesntHasPermission = true;
 	
-	public void setDisplay(ItemStack display) {
+	public KitsConfig(ItemStack display, boolean showContents, boolean showIfDoesntHasPermission) {
 		this.display = display;
-	}
-	public void setShowContents(boolean showContents) {
 		this.showContents = showContents;
+		this.showIfDoesntHasPermission = showIfDoesntHasPermission;
 	}
 	
 	public ItemStack getDisplay() {
@@ -18,5 +18,8 @@ public class KitsConfig {
 	}
 	public boolean getShowContents() {
 		return this.showContents;
+	}
+	public boolean showIfDoesntHasPermission() {
+		return this.showIfDoesntHasPermission;
 	}
 }

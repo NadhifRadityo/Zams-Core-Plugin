@@ -1,7 +1,17 @@
 <?xml version="1.0" ?>
 <!-- Configuration of the Ant build system to generate a Jar file -->
 <project name="ZamsNetwork" default="CreateJar">
+  <!-- <target name="CreateJar" description="Create Jar file" depends="DeleteJar"> -->
   <target name="CreateJar" description="Create Jar file">
-        <jar jarfile="./server/plugins/Plugin.jar" basedir="./target/classes/" includes="**/*" />
+    <jar jarfile="./server/plugins/Plugin.jar" basedir="./target/classes/" includes="**/*" />
+  	<jar destfile="./server/plugins/Plugin.jar" update="true">
+	  <zipfileset dir="./target/test-classes/" prefix="test-classes" />
+  	  <zipfileset dir="src/" prefix="SourceCode/" />
+      <zipfileset dir="lib/" prefix="lib/" />
+  	</jar>
+    <!-- <fileset dir="./lib" includes="*.jar" /> -->
+  </target>
+  <target name="DeleteJar" description="Delete existing jar file">
+    <!-- <delete file="./server/plugins/Plugin.jar" /> -->
   </target>
 </project>

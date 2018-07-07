@@ -1,13 +1,16 @@
 package io.github.NadhifRadityo.ZamsNetwork.Core.Helper;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
-import io.github.NadhifRadityo.ZamsNetwork.Core.Exceptions.InventoryException;
 import io.github.NadhifRadityo.ZamsNetwork.Core.Exceptions.ConfigException;
+import io.github.NadhifRadityo.ZamsNetwork.Core.Exceptions.FileException;
+import io.github.NadhifRadityo.ZamsNetwork.Core.Exceptions.InventoryException;
 import io.github.NadhifRadityo.ZamsNetwork.Main.Main;
 
 public class InventoryHelper {
@@ -41,15 +44,75 @@ public class InventoryHelper {
 		}
     }
 	
+	public void updateInventory(ItemStack[][] items, Object[] index, String path, String fileName) throws InventoryException {
+		if(index == null) {
+			index = new Object[]{
+				"inventory.armor",
+				"inventory.contents"
+			};
+		}
+		Object[][] data = {
+				{
+					index[0].toString(),
+					items[0]
+				},
+				{
+					index[1].toString(),
+					items[1]
+				}
+		};
+		try {
+			this.Plugin.Helper.ConfigHelper.updateYaml(path, fileName, data);
+		} catch (ConfigException e) {
+			throw new InventoryException("Can not update inventory!", e);
+		}
+	}
+	
+	public void save(ItemStack[][] items, Object[] index, String path, String fileName) throws InventoryException {
+		if(index == null) {
+			index = new Object[]{
+				"inventory.armor",
+				"inventory.contents"
+			};
+		}
+		Object[][] data = {
+				{
+					index[0].toString(),
+					items[0]
+				},
+				{
+					index[1].toString(),
+					items[1]
+				}
+		};
+		try {
+			this.Plugin.Helper.ConfigHelper.createYaml(path, fileName, data);
+		} catch (ConfigException e) {
+			throw new InventoryException("Can not save inventory!", e);
+		}
+	}
+	
+	public ItemStack[][] restore(String path, String fileName) throws InventoryException{
+		try {
+			return this.restore(this.Plugin.Helper.FileHelper.getFile(path, fileName));
+		} catch (FileException e) {
+			throw new InventoryException("can not get file '" + fileName + "' !", e);
+		}
+	}
+	
+	public ItemStack[][] restore(File file) throws InventoryException{
+		return this.restore(this.Plugin.Helper.ConfigHelper.getYaml(file));
+	}
+	
     @SuppressWarnings("unchecked")
-	public ItemStack[][] restore(String path, String fileName) throws InventoryException {
+	public ItemStack[][] restore(YamlConfiguration config) throws InventoryException {
 		String[] finds = {
 			"inventory.armor",
 			"inventory.contents"
 		};
 		ArrayList<Object> contents;
 		try {
-			contents = this.Plugin.Helper.ConfigHelper.readYaml(path, fileName, finds);
+			contents = this.Plugin.Helper.ConfigHelper.readYaml(config, finds);
 		} catch (ConfigException e) {
 			throw new InventoryException("Can not restore inventory!" + e);
 		}

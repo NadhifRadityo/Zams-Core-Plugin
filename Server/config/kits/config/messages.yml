@@ -1,0 +1,16 @@
+KitsNameNotIncluded: Masukkan nama kits!
+CanNotDeleteKits: "Kits gagal dihapus! \n <Error>"
+KitsNotFound: Kits tidak ada!
+SuccessChangeKits: Kits berhasil diganti!
+prefix: '&8[&7Kits&8]&r &f'
+CanNotCreateKits: "Kits gagal dibuat! \n <Error>"
+CanNotConfigKits: "Kits gagal diconfig! \n <Error>"
+CanNotGiveKits: "Kits gagal diberikan! \n <Error>"
+SuccessGiveKits: Kits berhasil diberikan!
+DoNotHavePermission: Kamu tidak mempunya ijin!
+IllegalKitsName: Nama kits tidak diperbolehkan!
+SuccessConfigKits: Kits berhasil diconfig!
+SuccessDeleteKits: Kits berhasil dihapus!
+CanNotOpenKits: "Tidak dapat membuka kits! \n <Error>"
+UnknownCommand: Perintah tidak diketahui!
+SuccessCreateKits: Kits berhasil dibuat!

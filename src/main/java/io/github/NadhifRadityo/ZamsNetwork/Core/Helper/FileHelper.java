@@ -3,11 +3,15 @@ package io.github.NadhifRadityo.ZamsNetwork.Core.Helper;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 import io.github.NadhifRadityo.ZamsNetwork.Core.Exceptions.FileException;
 
 public class FileHelper {
 	public String defaultFileName = null;
+	
+	public static final String JAVA_CLASS_PATH_PROPERTY = "java.class.path";
+	public static final String CUSTOM_CLASS_PATH_PROPERTY = "custom.class.path";
 
 	public final char[] forbiddenCharWin = { 
 		'<',
@@ -139,35 +143,41 @@ public class FileHelper {
 //        }
 //	}
 //	
-//	public Map<Integer, File> getListAllFiles(File curDir) {
-//		Map<Integer, File> result = new HashMap<Integer, File>();
-//		
-//		File[] filesList = this.getAllFiles(curDir);
-//		for(File f : filesList){
-//			if(f.isDirectory())
-//				result.putAll(this.getListAllFiles(f));
-//			if(f.isFile()){
-//				result.put(null, f);
-//			}
-//		}
-//		return result;
-//	}
-//	public Map<Integer, File> getListAllFiles(String dir) throws FileException{
-//		dir = this.fixedName(dir);
-//		try {
-//			return this.getListAllFiles(this.getFile(dir));
-//		} catch (FileException e) {
-//			throw new FileException("Can not list all files!", e);
-//		}
-//	}
-//	public Map<Integer, File> getListAllFiles(String path, String fileName) throws FileException{
-//		fileName = this.fixedName(fileName);
-//		try {
-//			return this.getListAllFiles(this.getFile(path, fileName));
-//		} catch (FileException e) {
-//			throw new FileException("Can not list all files!", e);
-//		}
-//	}
+	public File[] getListAllFiles(File curDir) throws FileException {
+		List<File> result = new ArrayList<File>();
+		
+		File[] filesList = this.getAllFiles(curDir);
+		if(filesList == null) {
+			throw new FileException("Directory / file is not available / unreachable");
+		}
+		for(File f : filesList){
+			if(f.isDirectory()) {
+				File[] filesChild = this.getListAllFiles(f);
+				for(File file : filesChild) {
+					result.add(file);
+				}
+			}else if(f.isFile()){
+				result.add(f);
+			}
+		}
+		return result.toArray(new File[result.size()]);
+	}
+	public File[] getListAllFiles(String dir) throws FileException{
+		dir = this.fixedName(dir);
+		try {
+			return this.getListAllFiles(this.getFile(dir));
+		} catch (FileException e) {
+			throw new FileException("Can not list all files!", e);
+		}
+	}
+	public File[] getListAllFiles(String path, String fileName) throws FileException{
+		fileName = this.fixedName(fileName);
+		try {
+			return this.getListAllFiles(this.getFile(path, fileName));
+		} catch (FileException e) {
+			throw new FileException("Can not list all files!", e);
+		}
+	}
 	
 	//Get file
 	public File getFile(String path, String fileName) throws FileException{
@@ -237,5 +247,16 @@ public class FileHelper {
 			return fileName;
 		}
 		return fileName;
+	}
+	
+	public String[] getClassPathRoots() {
+		String classPath;
+		if (System.getProperties().containsKey(CUSTOM_CLASS_PATH_PROPERTY)) {
+			classPath = System.getProperty(CUSTOM_CLASS_PATH_PROPERTY);
+		} else {
+			classPath = System.getProperty(JAVA_CLASS_PATH_PROPERTY);
+		}
+		String[] pathElements = classPath.split(File.pathSeparator);
+		return pathElements;
 	}
 }

@@ -1,0 +1,223 @@
+inventory:
+  armor:
+  - null
+  - null
+  - null
+  - null
+  contents:
+  - ==: org.bukkit.inventory.ItemStack
+    type: COMPASS
+  - ==: org.bukkit.inventory.ItemStack
+    type: WORKBENCH
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: SAND
+  - ==: org.bukkit.inventory.ItemStack
+    type: FIREWORK
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: FIREWORK
+      firework-effects:
+      - ==: Firework
+        flicker: false
+        trail: false
+        colors:
+        - ==: Color
+          RED: 235
+          BLUE: 68
+          GREEN: 136
+        - ==: Color
+          RED: 102
+          BLUE: 211
+          GREEN: 137
+        - ==: Color
+          RED: 195
+          BLUE: 205
+          GREEN: 84
+        fade-colors: &id001 []
+        type: CREEPER
+      power: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: FIREWORK
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: FIREWORK
+      firework-effects:
+      - ==: Firework
+        flicker: false
+        trail: false
+        colors:
+        - ==: Color
+          RED: 235
+          BLUE: 68
+          GREEN: 136
+        - ==: Color
+          RED: 102
+          BLUE: 211
+          GREEN: 137
+        - ==: Color
+          RED: 195
+          BLUE: 205
+          GREEN: 84
+        fade-colors: *id001
+        type: BALL
+      power: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 12
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 15
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOL
+    damage: 7
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        SILK_TOUCH: 1
+  - ==: org.bukkit.inventory.ItemStack
+    type: MONSTER_EGG
+    meta:
+      ==: ItemMeta
+      meta-type: SPAWN_EGG
+      internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYeDPzcxLTS5KTCuxKs5ITS1gYAAAYb2CQScAAAA=
+      id: sheep
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        DAMAGE_ARTHROPODS: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: ROTTEN_FLESH
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: COMMAND
+  - ==: org.bukkit.inventory.ItemStack
+    type: BONE
+  - ==: org.bukkit.inventory.ItemStack
+    type: COMMAND_CHAIN
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      lore:
+      - (+NBT)
+      internal: H4sIAAAAAAAAAC2OTQuCQBRF71SQmLRp1c4/0ML2gSTu+lhkq2gxzDxC1Hmib6g2/vYsuttz4NwQCLHc12yq3Ekp70I/FCLDzpZSsjuSQGGmvTAChJnvhZuTbggqVZi3/KSO7IjmGTeNdhZroZpa7iRO6dbttvd4iIckHjZJgElpEf3FX3OK6OKNob7P2DvBOIVF0WlTnb20/htfXVurhQ66l/xFxn9vKeADlz2LdLoAAAA=
+      blockMaterial: COMMAND_CHAIN
+  - ==: org.bukkit.inventory.ItemStack
+    type: COMMAND_CHAIN
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      lore:
+      - (+NBT)
+      internal: H4sIAAAAAAAAAFWOvw/BUBSFz0OiqbKYsHSyGdglorH5MahJDC/v3UhD323a+4Klf7sSi7N8y8l3TgiEGKzvbG4bJ5m8Un1ViAw7m0nGbkeiFDraCzfsFvygkiwChImvhPO9zglqFaCbcJ5rZzESulPBpcQrOpfLxSWu43oe17N5B/2trmTzJOM/bnwynk4CtDKL6Cf4fmkjOnpjqKoS9k6aXrPeS0ttbgcvhRcoDE+F1UJ/SgW8AfAqm+nSAAAA
+      blockMaterial: COMMAND_CHAIN
+  - ==: org.bukkit.inventory.ItemStack
+    type: COMMAND_CHAIN
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      lore:
+      - (+NBT)
+      internal: H4sIAAAAAAAAAFWOvw/BUBSFz0OiqbKYmDpaDLVLRGPzY8Akhpf3bqSh7zbtfcHSv9ygxOIs33LynRMCIQbLG5vrykkmz4O+KESGnc0kY7chUQod7YUbdgu+U0kWAcLUV8L5VucEtQjQTTnPtbMYCd2o4FLiBZ3K+ewc13GdxPU06aC/1pWsHmT8x41PxpNXgFZmEf0E3y9tRHtvDFVVyt5J02vWe4dSm+vOS+EFCsNjYbXQn1IBb9e1VnvSAAAA
+      blockMaterial: COMMAND_CHAIN
+  - ==: org.bukkit.inventory.ItemStack
+    type: GLASS_BOTTLE
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: PAPER
+    amount: 30
+  - ==: org.bukkit.inventory.ItemStack
+    type: ANVIL
+    damage: 2
+  - ==: org.bukkit.inventory.ItemStack
+    type: FIREWORK_CHARGE
+    amount: 62
+    meta:
+      ==: ItemMeta
+      meta-type: FIREWORK_EFFECT
+      firework-effect:
+        ==: Firework
+        flicker: false
+        trail: false
+        colors:
+        - ==: Color
+          RED: 235
+          BLUE: 68
+          GREEN: 136
+        - ==: Color
+          RED: 102
+          BLUE: 211
+          GREEN: 137
+        - ==: Color
+          RED: 195
+          BLUE: 205
+          GREEN: 84
+        fade-colors: *id001
+        type: BALL
+  - ==: org.bukkit.inventory.ItemStack
+    type: FIREWORK
+    amount: 48
+    meta:
+      ==: ItemMeta
+      meta-type: FIREWORK
+      power: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §8-§7=§8-§7=§8-§7=§8-§7=§8-§7=§8-§r§l§f    yaw 3    §8-§7=§8-§7=§8-§7=§8-§7=§8-§7=§8-§r
+      lore:
+      - '§6List: '
+      - ' §l§81.§r §7Diamond Sword'
+      - ' §l§82.§r §7Spawn Sheep'
+      - ' §l§83.§r §7Cooked Chicken x63'
+      - ' §l§84.§r §7Ink Sac x2'
+      - ' §l§85.§r §7White Wool'
+      - ' §l§86.§r §7Cooked Mutton x3'
+      - ' §l§87.§r §7Spawn Zombie'
+      - ' §l§88.§r §7Spawn Zombie Villager'
+      - ' §l§89.§r §7Arrow x2'
+      - ' §l§8-§r §7Tersisa §a4 §7Item Lagi'
+      blockMaterial: CHEST
+  - ==: org.bukkit.inventory.ItemStack
+    type: COMMAND_CHAIN
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      lore:
+      - (+NBT)
+      internal: H4sIAAAAAAAAAFWOuwrCQBREZ1UwxGhjpVU+QIvYC2Kw81GolVgsuxcJmr0huYva5Kv9AKPYOM1phjMTAiEGyxub68pJJs+DvihEhp3NJGO3IVEKHe2FG3YLvlNJFgHC1FfC+VbnBLUI0E05z7WzGAndqOBS4gWdyvnsHNdxncT1NOmgv9aVrB5k/MeNT8aTV4BWZhH9BN8vbUR7bwxVVcreSdNr1nuHUpvrzkvhBQrDY2G10J9SAW/IZZA50gAAAA==
+      blockMaterial: COMMAND_CHAIN
+  - ==: org.bukkit.inventory.ItemStack
+    type: SULPHUR
+    amount: 62
+  - ==: org.bukkit.inventory.ItemStack
+    type: NETHER_STAR
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    type: ELYTRA
+  - ==: org.bukkit.inventory.ItemStack
+    type: COOKED_CHICKEN
+    amount: 2
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null

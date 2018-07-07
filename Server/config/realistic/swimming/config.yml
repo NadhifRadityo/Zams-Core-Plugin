@@ -1,0 +1,9 @@
+enableSwimmingUp: true
+sprintSpeed: 0.3
+staminaSystem: true
+maxWaterfallDiameter: 3
+enableBoost: true
+minWaterDepth: 2
+ehmCompatibility: false
+disableSwimInWaterfall: true
+durabilityLoss: true

@@ -1,0 +1,10 @@
+seeKitsContents: Right
+getKits: Left
+loreTag:
+  kitsLeftClick: '&6Left Click &7to get kit!'
+  kitsRightClick: '&6Right Click &7to see contents!'
+  kitsName: '&l&8Name&r&7: <Name>'
+  kitsPermission: '&l&8Permission&r&7: <Permission>'
+GuiTitle: Kits
+defaultItemName: '&8-&7=&8-&7=&8-&7=&8-&7=&8-&7=&8-&r&l&f    <Kit Name>    &8-&7=&8-&7=&8-&7=&8-&7=&8-&7=&8-&r'
+storeKits: config/kits/
